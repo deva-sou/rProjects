@@ -1,5 +1,6 @@
 ##########################################################################
 #  EX1 # PAM50 intrinsic breast cancer subtypes # Projet Biostatistiques #
+#  Authors : Sam MAXWELL, Enzo GOMES, Déva SOU
 ##########################################################################
 
 # Objectif = Analyze the patient data according to the 50-gene expression.
